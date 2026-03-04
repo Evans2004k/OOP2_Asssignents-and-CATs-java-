@@ -1,3 +1,4 @@
+package Assignments;
 import java.util.Scanner;
 
 // Class to store student details
