@@ -12,10 +12,10 @@ public class volume {
         double height = scanner.nextDouble();
         
         // Calculate volume: V = π r² h
-        double volumeResult = Math.PI * radius * radius * height;
+        double volumeResult = 3.142 * radius * radius * height;
         
         // Calculate surface area: SA = 2π r² + 2π r h
-        double surfaceArea = 2 * Math.PI * radius * radius + 2 * Math.PI * radius * height;
+        double surfaceArea = 2 * 3.142 * radius * radius + 2 * 3.142 * radius * height;
         
         // Display results
         System.out.println("\n--- Cylinder Calculations ---");
