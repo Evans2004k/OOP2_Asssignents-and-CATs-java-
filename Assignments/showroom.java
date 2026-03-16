@@ -44,7 +44,7 @@ class Car extends Vehicle {
 }
 
 // Main class
-public class Showroom {
+public class showroom{
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
