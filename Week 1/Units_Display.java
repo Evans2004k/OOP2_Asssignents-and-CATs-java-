@@ -1,3 +1,5 @@
+// NAME:EVANS MAWIRA
+//REG NO: CT100/G/21515/24
 public class Units_Display {
     public static void main(String[] args) {
         System.out.println("Units offered This Semester:");
