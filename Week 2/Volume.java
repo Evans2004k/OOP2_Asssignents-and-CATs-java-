@@ -2,7 +2,7 @@
 //REG NO: CT100/G/21515/24
 import java.util.Scanner;
 
-public class volume {
+public class Volume {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
