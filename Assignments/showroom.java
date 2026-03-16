@@ -1,3 +1,6 @@
+// NAME:EVANS MAWIRA
+//REG NO: CT100/G/21515/24
+
 package Assignments;
 import java.util.Scanner;
 
@@ -69,3 +72,4 @@ public class Showroom {
 
         scanner.close();
     }
+}
