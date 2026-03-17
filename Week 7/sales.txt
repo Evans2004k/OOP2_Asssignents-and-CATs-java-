@@ -1,0 +1,93 @@
+
+╔══════════════════════════════════════════════════════════════════════════╗
+║                          EVANS TRADERS                                  ║
+║               Electronics & Accessories – Retail Store                  ║
+║           P.O. Box 4821-00100, Nairobi, Kenya                           ║
+║           Tel: +254 712 345 678 | Email: sales@evanstraders.co.ke       ║
+║           PIN: P051234567X  |  VAT No: 0123456789                       ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+──────────────────────────────────────────────────────────────────────────
+  SALES RECEIPT / TAX INVOICE
+──────────────────────────────────────────────────────────────────────────
+  Receipt No   :  EVT-2026-00472
+  Date         :  17 March 2026
+  Time         :  10:35 AM
+  Served By    :  Brian O. (Sales Rep)
+──────────────────────────────────────────────────────────────────────────
+  Customer     :  Walk-In Customer
+  Payment Mode :  Cash
+──────────────────────────────────────────────────────────────────────────
+
+  ELECTRONICS
+ ┌──────┬───────────────────────────────────────┬──────┬────────────┬────────────┐
+ │  No. │ Item Description                      │  Qty │ Unit Price │   Amount   │
+ │      │                                       │      │   (KSh)    │   (KSh)    │
+ ├──────┼───────────────────────────────────────┼──────┼────────────┼────────────┤
+ │  1   │ Samsung 55" 4K Smart TV (UA55AU7000)  │   1  │  82,000.00 │  82,000.00 │
+ │  2   │ Sony 2.1 Ch Soundbar (HT-S400)        │   1  │  18,500.00 │  18,500.00 │
+ │  3   │ Samsung Galaxy A55 (128GB)            │   2  │  42,000.00 │  84,000.00 │
+ │  4   │ HP Laptop 15s (Intel i5, 8GB, 512GB)  │   1  │  72,500.00 │  72,500.00 │
+ │  5   │ Canon EOS 2000D DSLR Camera Kit       │   1  │  56,000.00 │  56,000.00 │
+ │  6   │ Sony WH-1000XM5 Wireless Headphones   │   1  │  28,000.00 │  28,000.00 │
+ │  7   │ JBL Flip 6 Portable Bluetooth Speaker │   3  │   9,500.00 │  28,500.00 │
+ │  8   │ LG Microwave Oven (MH6535GIS, 25L)   │   1  │  14,800.00 │  14,800.00 │
+ ├──────┴───────────────────────────────────────┴──────┴────────────┴────────────┤
+ │                                                 Electronics Sub-Total:        │
+ │                                                          KSh  384,300.00      │
+ └────────────────────────────────────────────────────────────────────────────────┘
+
+  ACCESSORIES
+ ┌──────┬───────────────────────────────────────┬──────┬────────────┬────────────┐
+ │  No. │ Item Description                      │  Qty │ Unit Price │   Amount   │
+ │      │                                       │      │   (KSh)    │   (KSh)    │
+ ├──────┼───────────────────────────────────────┼──────┼────────────┼────────────┤
+ │  9   │ Samsung 45W USB-C Fast Charger        │   2  │   2,500.00 │   5,000.00 │
+ │  10  │ Oraimo PowerBank 20000mAh (OPB-P203D) │   2  │   3,200.00 │   6,400.00 │
+ │  11  │ Anker USB-C to USB-C Braided Cable 2M │   4  │     850.00 │   3,400.00 │
+ │  12  │ Sandisk 128GB MicroSDXC Card          │   3  │   1,800.00 │   5,400.00 │
+ │  13  │ Laptop Sleeve Bag 15.6" (Waterproof)  │   1  │   1,500.00 │   1,500.00 │
+ │  14  │ Wireless Optical Mouse (Logitech M185)│   2  │   1,200.00 │   2,400.00 │
+ │  15  │ Mechanical Keyboard USB (Redragon K552│   1  │   3,800.00 │   3,800.00 │
+ │  16  │ HDMI 4K Cable 3M                      │   2  │     750.00 │   1,500.00 │
+ │  17  │ Screen Protector (Samsung A55) – Pack │   2  │     350.00 │     700.00 │
+ │  18  │ Phone Case Heavy Duty (Samsung A55)   │   2  │     600.00 │   1,200.00 │
+ │  19  │ Laptop Cooling Pad (3-Fan USB)        │   1  │   2,200.00 │   2,200.00 │
+ │  20  │ Camera Memory Card 64GB (SanDisk CF)  │   2  │   2,100.00 │   4,200.00 │
+ ├──────┴───────────────────────────────────────┴──────┴────────────┴────────────┤
+ │                                                 Accessories Sub-Total:        │
+ │                                                           KSh  37,700.00      │
+ └────────────────────────────────────────────────────────────────────────────────┘
+
+──────────────────────────────────────────────────────────────────────────
+  BILLING SUMMARY
+──────────────────────────────────────────────────────────────────────────
+  Electronics Sub-Total          :          KSh    384,300.00
+  Accessories Sub-Total          :          KSh     37,700.00
+                                             ─────────────────
+  Gross Total                    :          KSh    422,000.00
+  Discount (5% Loyal Customer)   :          KSh    -21,100.00
+                                             ─────────────────
+  Taxable Amount                 :          KSh    400,900.00
+  VAT (16%)                      :          KSh     64,144.00
+                                             ─────────────────
+  TOTAL AMOUNT DUE               :          KSh    465,044.00
+                                             ═════════════════
+  Amount Paid (Cash)             :          KSh    465,044.00
+  Balance                        :          KSh          0.00
+──────────────────────────────────────────────────────────────────────────
+
+  TERMS & CONDITIONS
+  ──────────────────
+  1. Goods once sold are not returnable unless defective.
+  2. Defective items must be reported within 7 days of purchase.
+  3. Warranty claims are subject to manufacturer terms.
+  4. Please retain this receipt as proof of purchase.
+  5. Evans Traders is not liable for damage caused by misuse.
+
+──────────────────────────────────────────────────────────────────────────
+       Thank you for shopping at Evans Traders!
+       We value your business – Come back soon.
+       "Quality Electronics. Honest Prices. Trusted Service."
+──────────────────────────────────────────────────────────────────────────
+                 *** CUSTOMER COPY ***
