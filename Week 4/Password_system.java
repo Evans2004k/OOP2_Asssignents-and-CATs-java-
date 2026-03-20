@@ -1,5 +1,4 @@
-// NAME:EVANS MAWIRA
-//REG NO: CT100/G/21515/24
+
 import java.util.Scanner;
 public class Password_system {
     public static void main(String[] args) {

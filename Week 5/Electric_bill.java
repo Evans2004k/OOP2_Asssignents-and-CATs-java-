@@ -1,5 +1,4 @@
-// NAME:EVANS MAWIRA
-//Registration number: CT100/G/21515/24
+
 import java.util.Scanner;
 
 public class Electric_bill {

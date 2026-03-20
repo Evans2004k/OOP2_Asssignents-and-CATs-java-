@@ -1,5 +1,4 @@
-// NAME:EVANS MAWIRA
-//REG NO: CT100/G/21515/24
+
 import java.util.Random;
 import java.util.Scanner;
 public class Number_guessing_game {
