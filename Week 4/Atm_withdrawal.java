@@ -1,9 +1,10 @@
-
+// NAME:EVANS MAWIRA
+//REG NO: CT100/G/21515/24
 import java.util.Scanner;
 public class Atm_withdrawal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        double accountBalance = 3000.00; 
+        double accountBalance = 3000.00; // starting balance
 
         System.out.println("Current Account Balance: KES " + accountBalance);
 

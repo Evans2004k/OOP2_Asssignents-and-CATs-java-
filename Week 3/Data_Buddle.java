@@ -1,4 +1,5 @@
-
+// NAME:EVANS MAWIRA
+//REG NO: CT100/G/21515/24
 import java.util.Scanner;
 
 public class Data_Buddle {

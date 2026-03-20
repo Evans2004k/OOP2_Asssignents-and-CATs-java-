@@ -1,4 +1,5 @@
-
+// NAME:EVANS MAWIRA
+//Registration number: CT100/G/21515/24
 
 import java.util.Scanner;
 import java.util.ArrayList;
@@ -10,7 +11,7 @@ public class Hotel_manageent {
         Scanner scanner = new Scanner(System.in);
         Random random   = new Random();
 
-       
+        // ── 1D Array: Weekly Revenue Tracker ──────────────────────────
         double[] revenue = new double[7];
         String[] days    = {"Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"};
 
@@ -27,10 +28,10 @@ public class Hotel_manageent {
         System.out.printf("%nTotal Weekly Revenue  : KES %.2f%n", totalRevenue);
         System.out.printf("Average Daily Revenue : KES %.2f%n", avgRevenue);
 
-      
+        // ── 2D Array: Room Occupancy (One Branch) ─────────────────────
         int[][] occupancy = new int[5][10];
 
-        
+        // Simulate random occupancy
         for (int i = 0; i < 5; i++)
             for (int j = 0; j < 10; j++)
                 occupancy[i][j] = random.nextInt(2); // 0 or 1
@@ -45,7 +46,7 @@ public class Hotel_manageent {
             System.out.println("Floor " + (i + 1) + " → Occupied: " + occupied + " | Vacant: " + vacant);
         }
 
-      
+        // ── 3D Array: Multiple Branches ───────────────────────────────
         int[][][] chain = new int[3][5][10];
         int totalOccupied = 0;
 
